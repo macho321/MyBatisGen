@@ -26,3 +26,6 @@ git pull
 再次git push
 成功解决问题。
 ddf
+
+
+iphone 6plus
