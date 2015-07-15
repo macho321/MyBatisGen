@@ -1,16 +1,7 @@
-__________________________________________
-sdfdsffdsd
-f
-sd
-sd
-ds
-fds
-ds
-dfs
-f
-dffdfd
+http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 
 
 
+<<<<<<< HEAD
 ….
 ….
 
@@ -26,3 +17,6 @@ git pull
 再次git push
 成功解决问题。
 ddf
+=======
+iphone 6plus
+>>>>>>> ada51e3d21245df1e2a551654bc80fe3127975de
