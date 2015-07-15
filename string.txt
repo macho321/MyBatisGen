@@ -1,31 +1,4 @@
-__________________________________________
-sdfdsffdsd
-f
-sd
-sd
-ds
-fds
-ds
-dfs
-f
-dffdfd
-
-
-….
-….
-
-这里是新加的——这里是新加的——这里是新加的——这里是新加的——这里是新加的——这里是新加的——这里是新加的——
-这里是新加的——这里是新加的——这里是新加的——这里是新加的——这里是新加的——这里是新加的——这里是新加的——这里是新加的——这里是新加的——
-
-
-
-google后，发现是由于远程仓库中代码版本与本地不一致冲突导致的。
-解决：
-git pull
-再自动merge或手动merge冲突
-再次git push
-成功解决问题。
-ddf
+http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 http://us.sinaimg.cn/000KJgjnjx06TQ5MfMHt01040100KQAQ0k01.mp4?from=groupmessage&isappinstalled=0 
 
 
 iphone 6plus
